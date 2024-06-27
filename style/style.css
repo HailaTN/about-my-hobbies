@@ -1,0 +1,29 @@
+html {
+    background-image: url(../images/flowers.jpg);
+    background-size: cover;
+    color:honeydew
+}
+
+a {
+    color: rgba(235, 219, 250, 0.858);
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(147, 217, 224);
+}
+
+ul {
+    border: 2px dashed white;
+}
+
+h1 {
+    font-size: 2em;
+}
+
